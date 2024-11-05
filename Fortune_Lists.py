@@ -1,4 +1,12 @@
-# Wealth Fortunes (FFXIV Theme)
+
+
+
+
+
+
+
+# Wealth Fortunes (FFXIV Theme) 
+# THE_EWER
 wealth_fortunes = [
     # Positive
     [
@@ -19,7 +27,10 @@ wealth_fortunes = [
         "The fortunes of trade ebb and flow like Limsa’s tides.",
         "Your patience with gil will be as steady as the Twelve’s.",
         "The Echo whispers of modest gains; keep steady in your craft.",
-        "The path to wealth may be slower than expected, but remains steady."
+        "The path to wealth may be slower than expected, but remains steady.",
+        "A small setback in trade will come, but it is not a lasting loss.",
+        "Your gil will ebb and flow like the tides, but stability is on the horizon."
+
     ],
     # Negative
     [
@@ -29,7 +40,8 @@ wealth_fortunes = [
     ]
 ]
 
-# Adventure Fortunes (FFXIV Theme)
+# Adventure Fortunes (FFXIV Theme) 
+# THE ARROW
 adventure_fortunes = [
     # Positive
     [
@@ -50,7 +62,9 @@ adventure_fortunes = [
         "Even the mundane paths can lead to adventure; keep your eyes open.",
         "A familiar landscape will reveal new mysteries soon.",
         "Your next journey will be quieter than expected but full of meaning.",
-        "Not every adventure will bring glory, but each holds value."
+        "Not every adventure will bring glory, but each holds value.",
+        "Even the calmest journey will hold hidden moments of wonder.",
+        "An unexpected detour may delay your plans, but new paths will open."
     ],
     # Negative
     [
@@ -61,6 +75,7 @@ adventure_fortunes = [
 ]
 
 # Love Fortunes (FFXIV Theme)
+# THE BOLE
 love_fortunes = [
     # Positive
     [
@@ -81,7 +96,9 @@ love_fortunes = [
         "An unexpected ally may tug at your heart, but the path is uncertain.",
         "Friendship may deepen, though love may take its time.",
         "The love you seek may be closer than you realize; heed your instincts.",
-        "A close bond may shift, leaving you to seek balance."
+        "A close bond may shift, leaving you to seek balance.",
+        "A familiar face may return, though not all feelings will be rekindled.",
+        "Romance may remain on the horizon for now, but it moves closer each day."
     ],
     # Negative
     [
@@ -92,6 +109,7 @@ love_fortunes = [
 ]
 
 # Family Fortunes (FFXIV Theme)
+# THE SPIRE
 family_fortunes = [
     # Positive
     [
@@ -112,7 +130,10 @@ family_fortunes = [
         "You will find comfort in family routine, even if it feels mundane.",
         "A quiet moment with loved ones will be treasured.",
         "Family matters may weigh on you briefly but will soon clear.",
-        "Not all family members will see eye to eye, but peace will be found."
+        "Not all family members will see eye to eye, but peace will be found.",
+        "An old family tradition may resurface, bringing mixed emotions.",
+        "A moment of quiet reflection on family will bring deeper understanding."
+
     ],
     # Negative
     [
@@ -123,6 +144,7 @@ family_fortunes = [
 ]
 
 # Self Fortunes (FFXIV Theme)
+# THE BALANCE
 self_fortunes = [
     # Positive
     [
@@ -143,12 +165,49 @@ self_fortunes = [
         "Growth may feel slow, but it is as steady as your journey across Eorzea.",
         "Your current pace is exactly where it needs to be; trust the process.",
         "A quiet moment of introspection will bring renewed strength.",
-        "Not all battles are with monsters; some are with yourself."
+        "Not all battles are with monsters; some are with yourself.",
+        "A challenge will come that will require patience, but growth will follow.",
+        "A quiet period of introspection will bring new clarity to your goals."
     ],
     # Negative
     [
         "Doubt may cloud your mind, but clarity will soon emerge.",
         "A challenge may test your confidence, but resilience will carry you through.",
         "Old fears may rise, but you have the strength to overcome them."
+    ]
+]
+# Job Fortunes (FFXIV Theme)
+
+# THE SPEAR
+job_fortunes = [
+    # Positive
+    [
+        "Your skill will shine like a Warrior's axe cleaving through darkness.",
+        "You will wield magic with the precision and power of a seasoned Black Mage.",
+        "A new level of mastery awaits, like an Astrologian attuning to the stars.",
+        "Your dedication will inspire others, like a White Mage’s healing light.",
+        "As a Dragoon leaps to great heights, so too will you reach new achievements.",
+        "You will tank life's challenges with the resilience of a true Paladin.",
+        "Your strikes will land true, as precise as a Samurai’s blade.",
+        "The aether flows in harmony for you, like a Dancer in perfect rhythm.",
+        "You will control your fate as smoothly as a Bard guiding their song.",
+        "Like a Sage, you will bring balance and wisdom to those around you."
+    ],
+    # Neutral
+    [
+        "Your path may feel uncertain, like a Machinist adjusting gears.",
+        "A quiet period of training will ground you, like a Monk in meditation.",
+        "Not every spell cast will land, but you’ll grow stronger as a result.",
+        "You may feel the weight of armor, but the Warrior within will prevail.",
+        "Your talents may feel dormant, but they're as steady as a Dark Knight’s resolve.",
+        "Your skill will feel stagnant briefly, but progress continues beneath the surface.",
+        "An unexpected role change may come, requiring flexibility and patience."
+
+    ],
+    # Negative
+    [
+        "Doubt may cloud your path, as fleeting as an unsteady spell.",
+        "You may feel your skills falter, but a stronger resolve will soon follow.",
+        "A missed opportunity will sting, but it will serve as fuel for future growth."
     ]
 ]
